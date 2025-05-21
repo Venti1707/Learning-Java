@@ -1,9 +1,7 @@
 package package01_basic_concepts;
 
 public class Class08_NestedIfStatements {
-
 	public static void main(String[] args) {
-		
 		// Suppose that a grading system is as follows:
 		// Honours with highest distinction: 4.50 ≤ CGPA ≤ 5.00
 		// Honours with distinction: 4.00 ≤ CGPA < 4.50
@@ -27,8 +25,5 @@ public class Class08_NestedIfStatements {
 		} else {
 			System.out.println("Fail");
 		}
-		
-
 	}
-
 }
