@@ -1,7 +1,6 @@
 package package01_basic_concepts;
 
 public class Class10_FibonacciForLoop {
-
 	public static void main(String[] args) {
 		int limit = 18; // Set this number above 2 to find the first (limt + 2) numbers 
 		int num1 = 0;
@@ -17,7 +16,5 @@ public class Class10_FibonacciForLoop {
 			num1 = num2;
 			num2 = num3;
 		}
-
 	}
-
 }
