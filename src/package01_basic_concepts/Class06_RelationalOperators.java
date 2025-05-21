@@ -1,7 +1,6 @@
 package package01_basic_concepts;
 
 public class Class06_RelationalOperators {
-
 	public static void main(String[] args) {
 		int i1 = 355;
 		int i2 = 113;
@@ -32,7 +31,5 @@ public class Class06_RelationalOperators {
 		// 6. <=
 		// Lesser than or equal to
 		System.out.println(i1 <= i2);
-
 	}
-
 }
