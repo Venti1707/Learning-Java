@@ -1,12 +1,11 @@
 package package01_basic_concepts;
 
 public class Class05_BitwiseOperators {
-
 	public static void main(String[] args) {
 		int i1 = 355; // 101100011 in binary
 		int i2 = 113; // 001110001 in binary
 		
-		// There are 3 bitwise operators in Java. 
+		// There are 3 bitwise operators in Java.
 		// These convert a given integer to binary and performs the respective operation
 		
 		// 1. &
@@ -31,5 +30,4 @@ public class Class05_BitwiseOperators {
 		// ~0 makes 1
 		System.out.println(~i1);
 	}
-
 }
