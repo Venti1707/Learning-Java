@@ -1,7 +1,6 @@
 package package01_basic_concepts;
 
 public class Class07_IfCondition {
-
 	public static void main(String[] args) {
 		int i1 = 355;
 		int i2 = 113;
@@ -15,7 +14,5 @@ public class Class07_IfCondition {
 			// Conversely, all the code in this block will be executed if the condition is false
 			System.out.println("i1 is not greater than i2");
 		}
-
 	}
-
 }
