@@ -1,7 +1,6 @@
 package package01_basic_concepts;
 
 public class Class04_LogicalOperators {
-
 	public static void main(String[] args) {
 		boolean b1 = true;
 		boolean b2 = false;
@@ -23,5 +22,4 @@ public class Class04_LogicalOperators {
 		// Returns true if false and vice versa
 		System.out.println(!(b1 && b2));
 	}
-
 }
