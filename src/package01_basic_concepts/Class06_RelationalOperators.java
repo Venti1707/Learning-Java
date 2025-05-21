@@ -6,7 +6,7 @@ public class Class06_RelationalOperators {
 		int i1 = 355;
 		int i2 = 113;
 		
-		// There are (number) relational operators in Java.
+		// There are 6 relational operators in Java.
 		// These are:
 		
 		// 1. ==
