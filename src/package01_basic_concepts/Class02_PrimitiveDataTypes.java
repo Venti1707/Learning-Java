@@ -1,7 +1,6 @@
 package package01_basic_concepts;
 
 public class Class02_PrimitiveDataTypes {
-
 	// There are 4 data types in Java. These are:
 
 	// 1. Integers
@@ -55,7 +54,6 @@ public class Class02_PrimitiveDataTypes {
 		// Can either be true or false
 		// Has a default value of false
 	
-	
 	public static void main(String[] args) {
 		byte b1 = 123;
 		short s1 = 4567;
@@ -77,5 +75,4 @@ public class Class02_PrimitiveDataTypes {
 		System.out.println(b2);
 		System.out.println(s2);
 	}
-
 }
