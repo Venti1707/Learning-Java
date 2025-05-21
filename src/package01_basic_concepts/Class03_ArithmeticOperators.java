@@ -1,7 +1,6 @@
 package package01_basic_concepts;
 
 public class Class03_ArithmeticOperators {
-
 	public static void main(String[] args) {
 		int num1 = 355;
 		int num2 = 113;
@@ -68,5 +67,4 @@ public class Class03_ArithmeticOperators {
 		num13 /= num2;
 		System.out.println(num13);
 	}
-
 }
