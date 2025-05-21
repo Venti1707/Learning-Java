@@ -1,9 +1,7 @@
 package package01_basic_concepts;
 
 public class Class09_ForLoops {
-
 	public static void main(String[] args) {
-		
 		  //                 ----- Set a condition for executing the code               
 		  //                 |		
 		  //                 |
@@ -16,8 +14,5 @@ public class Class09_ForLoops {
 			System.out.println(i);
 			
 		}
-		
-		
-
 	}
 }
