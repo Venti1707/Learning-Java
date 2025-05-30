@@ -9,7 +9,7 @@ public class Class07_MethodOverridingMain {
 		c2.whoAmI(); // The method from Class05 overrides the method in Class04
 		
 		Class06_MethodOverriding3 c3 = new Class06_MethodOverriding3();
-		c3.whoAmI(); // The method from Class0 overrides the method in Class04
+		c3.whoAmI(); // The method from Class06 overrides the method in Class04
 	
 	}
 }
